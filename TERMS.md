@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms & Conditions
+---
+
 # Terms and Conditions for QR Code Catalyst
 
 **Effective Date:** July 31, 2026
