@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for QR Code Catalyst
 
 **Effective Date:** July 31, 2026
