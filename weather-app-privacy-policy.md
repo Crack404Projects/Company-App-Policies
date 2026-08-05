@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-Welcome to **Weather** ("we," "our," or "us"), developed by **Crack404**. We respect your privacy and are committed to protecting the data you share with us while using our weather mobile application (the "App").
+Welcome to **Weather**, developed by **Crack404**. We respect your privacy and are committed to protecting the data you share with us while using our weather mobile application (the "App").
 
 This Privacy Policy explains what information our App collects, how it is used, and your choices regarding your data.
 
